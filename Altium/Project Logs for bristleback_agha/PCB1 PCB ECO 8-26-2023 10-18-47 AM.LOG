@@ -1,0 +1,23 @@
+Change Footprint: Footprint Not Found CAPRR1500W80L1750T780H1100
+Change Footprint: Footprint Not Found CAPRR1500W80L1750T780H1100
+Change Footprint: Footprint Not Found CAPRR1500W80L1750T780H1100
+Change Footprint: Footprint Not Found CAPRR1500W80L1750T780H1100
+Add Component: Footprint Not Found TO254P1054X470X1955-3
+Add Component: Footprint Not Found TO127P580H530-3
+Add Component: Footprint Not Found TO127P580H530-3
+Add Component: Footprint Not Found TO254P470X1016X1879-3P
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2-2
+Add Pin To Net: Unknown Pin: Pin Q2-3
+Add Pin To Net: Unknown Pin: Pin Q-1
+Add Pin To Net: Unknown Pin: Pin Q-2
+Add Pin To Net: Unknown Pin: Pin Q-3
+Add Pin To Net: Unknown Pin: Pin U-1
+Add Pin To Net: Unknown Pin: Pin U-2
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Class Member: Failed to add class member : Component Q1 LM7805CT/NOPB
+Add Class Member: Failed to add class member : Component Q2 2N2222
+Add Class Member: Failed to add class member : Component Q 2N2222
+Add Class Member: Failed to add class member : Component U LM7809CT
