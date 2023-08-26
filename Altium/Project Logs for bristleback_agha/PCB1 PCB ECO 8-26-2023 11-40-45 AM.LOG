@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=H9 NewDesignator=Motor
+Change Component Designator: OldDesignator=H13 NewDesignator=Button 5_12v
+Change Net Name : Old Net Name=NetH9_1 New Net Name=NetMotor_1

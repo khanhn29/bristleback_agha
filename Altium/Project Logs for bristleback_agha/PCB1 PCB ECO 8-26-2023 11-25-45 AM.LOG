@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=H6 NewDesignator=Led green
+Change Component Designator: OldDesignator=H8 NewDesignator=Led red
+Change Component Designator: OldDesignator=H10 NewDesignator=inlet
+Change Component Designator: OldDesignator=H11 NewDesignator=nozzle
+Change Component Designator: OldDesignator=H12 NewDesignator=door
+Change Component Designator: OldDesignator=LS1 NewDesignator=Buzzer
+Change Net Name : Old Net Name=NetH6_1 New Net Name=NetLed green_1
+Change Net Name : Old Net Name=NetH8_1 New Net Name=NetLed red_1
+Change Net Name : Old Net Name=NetLS1_1 New Net Name=NetBuzzer_1

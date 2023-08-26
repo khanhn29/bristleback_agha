@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=H2 NewDesignator=GasSensor VCC
+Change Component Designator: OldDesignator=H4 NewDesignator=GasSensorGND
+Change Component Designator: OldDesignator=H5 NewDesignator=Temperature Header
+Change Component Designator: OldDesignator=H7 NewDesignator=GasSensorSignal

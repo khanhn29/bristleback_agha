@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=U NewDesignator=Max232
+Added Member To Class: ClassName=Sheet1 Member=Component U LM7809CT

@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=Lm7805 Old Footprint=TO254P1054X470X2600-3 New Footprint=TO254P1054X470X1955-3
+Change component parameters: Designator = "Lm7805" ("LM7805"); Footprint = "TO254P1054X470X2600-3"; UniqueID = "\ACHYCFAS" ("\ACHYCFAS")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LM7805CT/NOPB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
