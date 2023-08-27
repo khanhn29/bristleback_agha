@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=H2 NewDesignator=gas sensor 1
+Change Component Designator: OldDesignator=H4 NewDesignator=Gas sensor 2
+Change Component Designator: OldDesignator=H5 NewDesignator=Gas sensor 3
+Change Component Designator: OldDesignator=H6 NewDesignator=Gas sensor 4
+Change Net Name : Old Net Name=NetH2_1 New Net Name=Netgas sensor 1_1
+Added Member To Class: ClassName=Sheet1 Member=Component Q 2N2222
