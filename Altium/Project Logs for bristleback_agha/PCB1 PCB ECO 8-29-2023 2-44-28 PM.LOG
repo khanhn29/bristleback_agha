@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=Gas Sensor 1 NewDesignator=GAS 1
+Change Component Designator: OldDesignator=Gas Sensor 2 NewDesignator=GAS 3
+Change Component Designator: OldDesignator=Gas Sensor 3 NewDesignator=GAS 2
+Change Component Designator: OldDesignator=Gas Sensor 4 NewDesignator=GAS 4
+Change Net Name : Old Net Name=NetGas Sensor 1_1 New Net Name=NetGAS 1_1
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 2x8 2.54
+Added Room: Name=Sheet1

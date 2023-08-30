@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=pin 9 Pin=Arduino_MEGA1-27
+Removed Pin From Net: NetName=pin 10 Pin=Arduino_MEGA1-29
+Removed Pin From Net: NetName=pin 11 Pin=Arduino_MEGA1-31
+Removed Pin From Net: NetName=pin 12 Pin=Arduino_MEGA1-33
+Removed Pin From Net: NetName=pin 13 Pin=Arduino_MEGA1-35
+Removed Pin From Net: NetName=pin 14 Pin=Arduino_MEGA1-37
+Removed Pin From Net: NetName=pin 15 Pin=Arduino_MEGA1-39
+Removed Pin From Net: NetName=pin 16 Pin=Arduino_MEGA1-41
+Added Pin To Net: NetName=pin 16 Pin=Arduino_MEGA1-27
+Added Pin To Net: NetName=pin 15 Pin=Arduino_MEGA1-29
+Added Pin To Net: NetName=pin 14 Pin=Arduino_MEGA1-31
+Added Pin To Net: NetName=pin 13 Pin=Arduino_MEGA1-33
+Added Pin To Net: NetName=pin 12 Pin=Arduino_MEGA1-35
+Added Pin To Net: NetName=pin 11 Pin=Arduino_MEGA1-37
+Added Pin To Net: NetName=pin 10 Pin=Arduino_MEGA1-39
+Added Pin To Net: NetName=pin 9 Pin=Arduino_MEGA1-41
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x8 2.54
+Added Room: Name=Sheet1

@@ -1,0 +1,13 @@
+Added Component: Designator=U(TO254P470X1016X1879-3P)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Fujitsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7809C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-220-3 Fujitsu"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LM7809C/Fujitsu/view-part/1233224/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=U-1
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=Vin Pin=U-3
+Added Member To Class: ClassName=Sheet1 Member=Component U LM7809CT
+Added Member To Class: ClassName=Sheet1 Member=Component U MAX232CWE-TG002

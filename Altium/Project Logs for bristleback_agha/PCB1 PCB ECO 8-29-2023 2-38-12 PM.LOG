@@ -1,0 +1,57 @@
+Added Component: Designator=JP1(JP 2x8 CT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH008647"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðôi Cái 2.54MM 2x20P Th?ng"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=pin 1 Pin=Arduino_MEGA1-57
+Added Pin To Net: NetName=pin 1 Pin=JP1-1
+Added Net: Name=pin 1
+Added Pin To Net: NetName=pin 2 Pin=Arduino_MEGA1-55
+Added Pin To Net: NetName=pin 2 Pin=JP1-2
+Added Net: Name=pin 2
+Added Pin To Net: NetName=pin 3 Pin=Arduino_MEGA1-53
+Added Pin To Net: NetName=pin 3 Pin=JP1-3
+Added Net: Name=pin 3
+Added Pin To Net: NetName=pin 4 Pin=Arduino_MEGA1-51
+Added Pin To Net: NetName=pin 4 Pin=JP1-4
+Added Net: Name=pin 4
+Added Pin To Net: NetName=pin 5 Pin=Arduino_MEGA1-49
+Added Pin To Net: NetName=pin 5 Pin=JP1-5
+Added Net: Name=pin 5
+Added Pin To Net: NetName=pin 6 Pin=Arduino_MEGA1-47
+Added Pin To Net: NetName=pin 6 Pin=JP1-6
+Added Net: Name=pin 6
+Added Pin To Net: NetName=pin 7 Pin=Arduino_MEGA1-45
+Added Pin To Net: NetName=pin 7 Pin=JP1-7
+Added Net: Name=pin 7
+Added Pin To Net: NetName=pin 8 Pin=Arduino_MEGA1-43
+Added Pin To Net: NetName=pin 8 Pin=JP1-8
+Added Net: Name=pin 8
+Added Pin To Net: NetName=pin 9 Pin=Arduino_MEGA1-27
+Added Pin To Net: NetName=pin 9 Pin=JP1-9
+Added Net: Name=pin 9
+Added Pin To Net: NetName=pin 10 Pin=Arduino_MEGA1-29
+Added Pin To Net: NetName=pin 10 Pin=JP1-10
+Added Net: Name=pin 10
+Added Pin To Net: NetName=pin 11 Pin=Arduino_MEGA1-31
+Added Pin To Net: NetName=pin 11 Pin=JP1-11
+Added Net: Name=pin 11
+Added Pin To Net: NetName=pin 12 Pin=Arduino_MEGA1-33
+Added Pin To Net: NetName=pin 12 Pin=JP1-12
+Added Net: Name=pin 12
+Added Pin To Net: NetName=pin 13 Pin=Arduino_MEGA1-35
+Added Pin To Net: NetName=pin 13 Pin=JP1-13
+Added Net: Name=pin 13
+Added Pin To Net: NetName=pin 14 Pin=Arduino_MEGA1-37
+Added Pin To Net: NetName=pin 14 Pin=JP1-14
+Added Net: Name=pin 14
+Added Pin To Net: NetName=pin 15 Pin=Arduino_MEGA1-39
+Added Pin To Net: NetName=pin 15 Pin=JP1-15
+Added Net: Name=pin 15
+Added Pin To Net: NetName=pin 16 Pin=Arduino_MEGA1-41
+Added Pin To Net: NetName=pin 16 Pin=JP1-16
+Added Net: Name=pin 16
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 2x8 2.54
+Added Room: Name=Sheet1

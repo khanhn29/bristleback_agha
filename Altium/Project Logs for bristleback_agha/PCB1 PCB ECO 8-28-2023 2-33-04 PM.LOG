@@ -1,0 +1,51 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=Vin Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=NetC5_1 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=+5 Pin=C8-2
+Change Component Footprint: Designator=C1 Old Footprint=CAPRR1500W80L1750T780H1100 New Footprint=tu 1206
+Change Component Footprint: Designator=C2 Old Footprint=CAPRR1500W80L1750T780H1100 New Footprint=tu 1206
+Change Component Footprint: Designator=C7 Old Footprint=CAPRR1500W80L1750T780H1100 New Footprint=tu 1206
+Change Component Footprint: Designator=C8 Old Footprint=CAPRR1500W80L1750T780H1100 New Footprint=tu 1206
+Change Component Comment : Designator=C1 Old Comment=ECWFD2W105JC New Comment=104
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAPRR1500W80L1750T780H1100"; UniqueID = "\ZSAQUWXE" ("\ZSAQUWXE")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004544"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 104-0.1uF 20% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "CAPRR1500W80L1750T780H1100"; UniqueID = "\QDLKUSWZ" ("\QDLKUSWZ")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004544"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 104-0.1uF 20% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPRR1500W80L1750T780H1100"; UniqueID = "\HIPWMIOB" ("\HIPWMIOB")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004544"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 104-0.1uF 20% 50V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPRR1500W80L1750T780H1100"; UniqueID = "\EZWWBGQF" ("\EZWWBGQF")
+Change component parameters (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ma_Hang"; Value = "MH004544"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 1206 104-0.1uF 20% 50V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=Vin Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetC5_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=+5 Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C8-2
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC1_1
+Added Member To Class: ClassName=Sheet1 Member=Component U LM7809CT

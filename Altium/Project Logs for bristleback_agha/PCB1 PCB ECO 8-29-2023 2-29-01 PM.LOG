@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=LM1 NewDesignator=7809
+Change Component Designator: OldDesignator=LM2 NewDesignator=7805
+Change Net Name : Old Net Name=NetC1_1 New Net Name=Net7809_1
+Change Net Name : Old Net Name=NetC8_1 New Net Name=Net7805_1
+Added Room: Name=Sheet1

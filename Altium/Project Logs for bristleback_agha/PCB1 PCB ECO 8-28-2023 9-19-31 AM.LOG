@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC5_1 Pin=Lm7805-1
+Removed Pin From Net: NetName=GND Pin=Lm7805-2
+Removed Pin From Net: NetName=+5 Pin=Lm7805-3
+Removed Member From Class: ClassName=Sheet1 Member=Lm7805
+Added Component: Designator=Q?(TO254P1054X470X1955-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LM7805CT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC5_1 Pin=Q?-1
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=+5 Pin=Q?-3
+Added Member To Class: ClassName=Sheet1 Member=Component Q? LM7805CT/NOPB

@@ -1,0 +1,82 @@
+Added Component: Designator=Q4(TO92254P470H750-3)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92-3 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/2N2222A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q5(TO92254P470H750-3)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Diotec Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2N2222A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "TO-92-3 Diotec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/2N2222A/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/2N2222A/Diotec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R14(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005307"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 4.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R15(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 1% 3.3k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005472"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 1% 3.3k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Vin Pin=Led green1-1
+Added Pin To Net: NetName=Vin Pin=Led red1-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=NetArduino_MEGA1_17 Pin=Arduino_MEGA1-17
+Added Pin To Net: NetName=NetArduino_MEGA1_17 Pin=R14-1
+Added Net: Name=NetArduino_MEGA1_17
+Added Pin To Net: NetName=NetArduino_MEGA1_18 Pin=Arduino_MEGA1-18
+Added Pin To Net: NetName=NetArduino_MEGA1_18 Pin=R13-1
+Added Net: Name=NetArduino_MEGA1_18
+Added Pin To Net: NetName=NetLed green1_2 Pin=Led green1-2
+Added Pin To Net: NetName=NetLed green1_2 Pin=Q4-3
+Added Net: Name=NetLed green1_2
+Added Pin To Net: NetName=NetLed red1_2 Pin=Led red1-2
+Added Pin To Net: NetName=NetLed red1_2 Pin=Q5-3
+Added Net: Name=NetLed red1_2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R15-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R13-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ5_1 Pin=Q5-1
+Added Pin To Net: NetName=NetQ5_1 Pin=R16-1
+Added Net: Name=NetQ5_1
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R14-2
+Added Net: Name=NetQ5_2
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 2N2222A
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 2N2222A
+Added Member To Class: ClassName=Sheet1 Member=Component R13 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component R14 4.7k
+Added Member To Class: ClassName=Sheet1 Member=Component R15 3.3k
+Added Member To Class: ClassName=Sheet1 Member=Component R16 3.3k

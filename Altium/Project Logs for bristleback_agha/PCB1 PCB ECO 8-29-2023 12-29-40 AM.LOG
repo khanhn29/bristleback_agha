@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=on off gas sensor Pin=D4-2
+Added Pin To Net: NetName=on off motor Pin=D4-2
+Added Room: Name=Sheet1

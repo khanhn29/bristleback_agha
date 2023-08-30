@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=control 5v or 12v Pin=Button 1-2
+Removed Pin From Net: NetName=control 5v or 12v Pin=D6-2
+Added Component: Designator=D7(DIODE 1A)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH001063"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Diode 1N4007 1A (DIP)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=control 5v or 12v Pin=D7-2
+Added Pin To Net: NetName=NetButton 1_2 Pin=Button 1-2
+Added Pin To Net: NetName=NetButton 1_2 Pin=D6-2
+Added Pin To Net: NetName=NetButton 1_2 Pin=D7-1
+Added Net: Name=NetButton 1_2
+Added Member To Class: ClassName=Sheet1 Member=Component D7 100v
+Added Room: Name=Sheet1

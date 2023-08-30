@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=on off motor Pin=Arduino_MEGA1-23
+Removed Pin From Net: NetName=control 5v or 12v Pin=Arduino_MEGA1-24
+Change Component Designator: OldDesignator=RX NewDesignator=LED_RX1
+Change Component Designator: OldDesignator=TX NewDesignator=LED_TX1
+Added Pin To Net: NetName=control 5v or 12v Pin=Arduino_MEGA1-56
+Added Pin To Net: NetName=on off motor Pin=Arduino_MEGA1-58
+Added Room: Name=Sheet1

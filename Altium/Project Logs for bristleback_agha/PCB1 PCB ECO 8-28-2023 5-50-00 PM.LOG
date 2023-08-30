@@ -1,0 +1,56 @@
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Member From Class: ClassName=Sheet1 Member=R15
+Removed Member From Class: ClassName=Sheet1 Member=R16
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=C6 NewDesignator=C9
+Change Component Designator: OldDesignator=C7 NewDesignator=C10
+Change Component Designator: OldDesignator=C8 NewDesignator=C11
+Change Component Designator: OldDesignator=C9 NewDesignator=C6
+Change Component Designator: OldDesignator=C10 NewDesignator=C7
+Change Component Designator: OldDesignator=C11 NewDesignator=C5
+Change Component Designator: OldDesignator=Gas Sensor 2 NewDesignator=Gas Sensor 3
+Change Component Designator: OldDesignator=Gas Sensor 3 NewDesignator=Gas Sensor 2
+Change Component Designator: OldDesignator=LED_RX NewDesignator=LED_RX1
+Change Component Designator: OldDesignator=LED_TX NewDesignator=LED_TX1
+Change Component Designator: OldDesignator=LM7805 NewDesignator=LM2
+Change Component Designator: OldDesignator=LM7809CT NewDesignator=LM1
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q5
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q5 NewDesignator=Q2
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R9 NewDesignator=R11
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R2
+Change Component Designator: OldDesignator=R14 NewDesignator=R3
+Change Component Designator: OldDesignator=R15 NewDesignator=R4
+Change Component Designator: OldDesignator=R16 NewDesignator=R5
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Net Name : Old Net Name=NetC5_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC9_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC9_2 New Net Name=NetC6_2
+Change Net Name : Old Net Name=NetC10_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC10_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ3_2
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetQ4_2
+Change Net Name : Old Net Name=NetQ3_2 New Net Name=NetQ5_2
+Change Net Name : Old Net Name=NetQ4_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ4_2 New Net Name=NetQ1_2
+Change Net Name : Old Net Name=NetQ5_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ5_2 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=NetR6_1 New Net Name=NetR8_1
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetR14_2
+Added Room: Name=Sheet1

@@ -1,0 +1,7 @@
+Change Component DesignItemId : Designator=Button 1 Old DesignItemId=Header 2P 2.54 Duc Thang New DesignItemId=Header 2P VH3.96 Duc Thang
+Change Component Footprint: Designator=Button 1 Old Footprint=XH2.54M-2 New Footprint=VH3.96M-2
+Change Component Comment : Designator=Button 1 Old Comment=Button turn on motor 12V New Comment=Header 2P VH3.96 Duc Thang
+Change Component Designator: OldDesignator=Button 1 NewDesignator=Push SW
+Change Net Name : Old Net Name=NetButton 1_2 New Net Name=NetD6_1
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x8 2.54
+Added Room: Name=Sheet1

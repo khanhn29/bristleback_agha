@@ -1,0 +1,19 @@
+Change Component Designator: Old Designator=Arduino_MEGA2 New Designator=Arduino_MEGA1
+Change Component Designator: Old Designator=Button 5_12v New Designator=Button 1
+Change Component Designator: Old Designator=Buzzer New Designator=Buzzer1
+Change Component Designator: Old Designator=D2 New Designator=D3
+Change Component Designator: Old Designator=D3 New Designator=D2
+Change Component Designator: Old Designator=door New Designator=door1
+Change Component Designator: Old Designator=H3 New Designator=H2
+Change Component Designator: Old Designator=inlet New Designator=inlet1
+Change Component Designator: Old Designator=Led green New Designator=Led green1
+Change Component Designator: Old Designator=Led red New Designator=Led red1
+Change Component Designator: Old Designator=Lm7809 New Designator=Lm1
+Change Component Designator: Old Designator=Max232 New Designator=Max1
+Change Component Designator: Old Designator=Motor New Designator=Motor1
+Change Component Designator: Old Designator=nozzle New Designator=nozzle1
+Change Component Designator: Old Designator=Q1 New Designator=Q4
+Change Component Designator: Old Designator=Q2 New Designator=Q3
+Change Component Designator: Old Designator=Q3 New Designator=Q1
+Change Component Designator: Old Designator=Q New Designator=Q2
+Change Component Designator: Old Designator=Temperature Header New Designator=Temperature Header1

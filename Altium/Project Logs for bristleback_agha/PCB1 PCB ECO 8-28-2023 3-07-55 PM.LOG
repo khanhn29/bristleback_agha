@@ -1,0 +1,4 @@
+Change Component Comment : Designator=H2 Old Comment=Header 3P VH3.96 Duc Thang New Comment=RS232 Out
+Change Component Designator: OldDesignator=U NewDesignator=LM7809CT
+Added Member To Class: ClassName=Sheet1 Member=Component LM7809CT
+Added Room: Name=Sheet1

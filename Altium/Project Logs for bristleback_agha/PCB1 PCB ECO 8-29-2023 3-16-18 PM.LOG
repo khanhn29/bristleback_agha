@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=pin 27 Pin=Arduino_MEGA1-34
+Removed Pin From Net: NetName=pin 28 Pin=Arduino_MEGA1-36
+Added Pin To Net: NetName=pin 28 Pin=Arduino_MEGA1-42
+Added Pin To Net: NetName=pin 27 Pin=Arduino_MEGA1-44
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x8 2.54

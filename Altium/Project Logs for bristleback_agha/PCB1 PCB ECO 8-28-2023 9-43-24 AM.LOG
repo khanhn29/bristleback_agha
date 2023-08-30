@@ -1,0 +1,29 @@
+Removed Member From Class: ClassName=Sheet1 Member=Q3
+Change Component Designator: OldDesignator=Button 5_12v NewDesignator=Button 1
+Change Component Designator: OldDesignator=Buzzer NewDesignator=Buzzer1
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=door NewDesignator=door1
+Change Component Designator: OldDesignator=H3 NewDesignator=H2
+Change Component Designator: OldDesignator=inlet NewDesignator=inlet1
+Change Component Designator: OldDesignator=Led green NewDesignator=Led green1
+Change Component Designator: OldDesignator=Led red NewDesignator=Led red1
+Change Component Designator: OldDesignator=Lm7809 NewDesignator=Lm1
+Change Component Designator: OldDesignator=Max232 NewDesignator=Max1
+Change Component Designator: OldDesignator=Motor NewDesignator=Motor1
+Change Component Designator: OldDesignator=nozzle NewDesignator=nozzle1
+Change Component Designator: OldDesignator=Q1 NewDesignator=Q4
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q3
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q NewDesignator=Q2
+Change Component Designator: OldDesignator=Temperature Header NewDesignator=Temperature Header1
+Change Net Name : Old Net Name=NetBuzzer_1 New Net Name=NetBuzzer1_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetH3_2 New Net Name=NetH2_2
+Change Net Name : Old Net Name=NetLed green_1 New Net Name=NetLed green1_1
+Change Net Name : Old Net Name=NetLed red_1 New Net Name=NetLed red1_1
+Change Net Name : Old Net Name=NetMotor_1 New Net Name=NetMotor1_1
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=NetQ4_2
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetQ3_2
+Change Net Name : Old Net Name=NetQ_2 New Net Name=NetQ2_2
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 2N2222

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=GND Pin=LED_RX1-2
+Removed Pin From Net: NetName=GND Pin=LED_TX1-2
+Change Component Designator: OldDesignator=Temp Sens NewDesignator=Temperature Header1
+Added Component: Designator=R15(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 1k"; VariantName = "[No Variations]"
+Added Component: Designator=R16(tro smd 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH005234"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Tr? 0805 5% 1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=NetLED_RX1_2 Pin=LED_RX1-2
+Added Pin To Net: NetName=NetLED_RX1_2 Pin=R15-2
+Added Net: Name=NetLED_RX1_2
+Added Pin To Net: NetName=NetLED_TX1_2 Pin=LED_TX1-2
+Added Pin To Net: NetName=NetLED_TX1_2 Pin=R16-2
+Added Net: Name=NetLED_TX1_2
+Added Member To Class: ClassName=Sheet1 Member=Component R15 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R16 1k
+Added Room: Name=Sheet1

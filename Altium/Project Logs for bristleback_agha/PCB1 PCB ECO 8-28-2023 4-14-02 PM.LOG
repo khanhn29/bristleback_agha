@@ -1,0 +1,34 @@
+Added Component: Designator=C11(tu 0805)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH004552"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "So_Chan"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "T? 0805 105-1uF 10% 50V"; VariantName = "[No Variations]"
+Added Component: Designator=LED_RX(LED-1206-Red)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED1206 Màu Ð? (Red)"; VariantName = "[No Variations]"
+Added Component: Designator=LED_TX(LED-1206-Red)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "Dán"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH002334"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "LED1206 Màu Ð? (Red)"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V MCU Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=RX mcu Pin=LED_RX-1
+Added Pin To Net: NetName=GND Pin=LED_RX-2
+Added Pin To Net: NetName=TX mcu Pin=LED_TX-1
+Added Pin To Net: NetName=GND Pin=LED_TX-2
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=U3-2
+Added Net: Name=NetC11_2
+Added Member To Class: ClassName=Sheet1 Member=Component C11 105
+Added Member To Class: ClassName=Sheet1 Member=Component LED_RX LED 0805
+Added Member To Class: ClassName=Sheet1 Member=Component LED_TX LED 0805
+Added Room: Name=Sheet1

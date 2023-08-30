@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=+12 Pin=D1-1
+Removed Pin From Net: NetName=NetC1_1 Pin=D1-2
+Removed Pin From Net: NetName=+12 Pin=D2-1
+Removed Pin From Net: NetName=NetC8_1 Pin=D2-2
+Change Component Footprint: Designator=D1 Old Footprint=DIODE 1A New Footprint=DIOAD2120W130L950D530P
+Change Component Footprint: Designator=D2 Old Footprint=DIODE 1A New Footprint=DIOAD2120W130L950D530P
+Change Component Comment : Designator=D1 Old Comment=100v New Comment=1N5822
+Change Component Comment : Designator=D2 Old Comment=100v New Comment=1N5822
+Change Component Designator: OldDesignator=Gas 1 NewDesignator=Gas Sensor 3
+Change Component Designator: OldDesignator=Gas 2 NewDesignator=Gas Sensor 4
+Change Component Designator: OldDesignator=Gas 3 NewDesignator=Gas Sensor 2
+Change Component Designator: OldDesignator=Gas 4 NewDesignator=Gas Sensor 1
+Change component parameters: Designator = "D1" ("D1"); Footprint = "DIODE 1A"; UniqueID = "\RNPGQLJD" ("\RNPGQLJD")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N5822/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N5822"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-201 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N5822/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N5822/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "DIODE 1A"; UniqueID = "\BDFFEIHX" ("\BDFFEIHX")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1N5822/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1N5822"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DO-201 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1N5822/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N5822/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+12 Pin=D1-A
+Added Pin To Net: NetName=NetC1_1 Pin=D1-C
+Added Pin To Net: NetName=+12 Pin=D2-A
+Added Pin To Net: NetName=NetC8_1 Pin=D2-C
+Added Room: Name=Sheet1

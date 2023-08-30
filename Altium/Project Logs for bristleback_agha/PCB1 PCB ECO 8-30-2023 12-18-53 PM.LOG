@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Vin Pin=LED GREEN-1
+Added Pin To Net: NetName=Vin Pin=LED RED-1
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x8 2.54
+Added Room: Name=Sheet1

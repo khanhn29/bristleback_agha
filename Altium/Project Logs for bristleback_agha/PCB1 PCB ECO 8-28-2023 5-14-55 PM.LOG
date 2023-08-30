@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=LED RED Pin=Arduino_MEGA1-71
+Removed Pin From Net: NetName=LED GREEN Pin=Arduino_MEGA1-72
+Added Pin To Net: NetName=LED RED Pin=Arduino_MEGA1-17
+Added Pin To Net: NetName=LED GREEN Pin=Arduino_MEGA1-18

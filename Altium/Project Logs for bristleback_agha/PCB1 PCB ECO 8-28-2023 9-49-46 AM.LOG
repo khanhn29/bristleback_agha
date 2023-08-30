@@ -1,0 +1,35 @@
+Change Component Comment : Designator=R2 Old Comment=1k New Comment=3.3k
+Change Component Comment : Designator=R3 Old Comment=1k New Comment=3.3k
+Change Component Comment : Designator=R5 Old Comment=1k New Comment=3.3k
+Change Component Comment : Designator=R6 Old Comment=1k New Comment=3.3k
+Change Component Comment : Designator=R7 Old Comment=1k New Comment=3.3k
+Change Component Comment : Designator=R11 Old Comment=1k New Comment=3.3k
+Change Component Comment : Designator=R12 Old Comment=1k New Comment=3.3k
+Change Component Comment : Designator=D2 Old Comment=1N4007 New Comment=100v
+Change Component Comment : Designator=D1 Old Comment=1N5400 New Comment=100v
+Change Component Comment : Designator=R1 Old Comment=330 New Comment=3.3k
+Added Component: Designator=Arduino_MEGA1(ArduinoMEGA_ALL)
+Added Pin To Net: NetName=5V MCU Pin=Arduino_MEGA1-5
+Added Pin To Net: NetName=GND Pin=Arduino_MEGA1-6
+Added Pin To Net: NetName=GND Pin=Arduino_MEGA1-7
+Added Pin To Net: NetName=Vin Pin=Arduino_MEGA1-8
+Added Pin To Net: NetName=adc nhiet do Pin=Arduino_MEGA1-9
+Added Pin To Net: NetName=adc gas 1 Pin=Arduino_MEGA1-10
+Added Pin To Net: NetName=adc gas 2 Pin=Arduino_MEGA1-11
+Added Pin To Net: NetName=adc gas 3 Pin=Arduino_MEGA1-12
+Added Pin To Net: NetName=adc gas 4 Pin=Arduino_MEGA1-13
+Added Pin To Net: NetName=on off gas sensor Pin=Arduino_MEGA1-15
+Added Pin To Net: NetName=control 5v or 12v Pin=Arduino_MEGA1-24
+Added Pin To Net: NetName=RX mcu Pin=Arduino_MEGA1-69
+Added Pin To Net: NetName=TX mcu Pin=Arduino_MEGA1-70
+Added Pin To Net: NetName=LED RED Pin=Arduino_MEGA1-71
+Added Pin To Net: NetName=LED GREEN Pin=Arduino_MEGA1-72
+Added Pin To Net: NetName=inlet_pin Pin=Arduino_MEGA1-77
+Added Pin To Net: NetName=nozzle_pin Pin=Arduino_MEGA1-78
+Added Pin To Net: NetName=door_pin Pin=Arduino_MEGA1-79
+Added Pin To Net: NetName=NetArduino_MEGA1_73 Pin=Arduino_MEGA1-73
+Added Pin To Net: NetName=NetArduino_MEGA1_73 Pin=Buzzer1-2
+Added Net: Name=NetArduino_MEGA1_73
+Added Pin To Net: NetName=on off motor Pin=Arduino_MEGA1-23
+Added Net: Name=on off motor
+Added Member To Class: ClassName=Sheet1 Member=Component Arduino_MEGA1 Arduino_MEGA?

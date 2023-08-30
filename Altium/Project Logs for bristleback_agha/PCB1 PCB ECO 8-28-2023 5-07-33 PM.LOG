@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=H3 NewDesignator=Gas Sensor 1
+Change Component Designator: OldDesignator=H4 NewDesignator=Gas Sensor 3
+Change Component Designator: OldDesignator=H5 NewDesignator=Gas Sensor 2
+Change Net Name : Old Net Name=NetH3_1 New Net Name=NetGas Sensor 1_1
+Added Room: Name=Sheet1

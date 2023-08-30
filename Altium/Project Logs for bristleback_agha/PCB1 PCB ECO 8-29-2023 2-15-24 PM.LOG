@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=Led green1 NewDesignator=LED GREEN
+Change Component Designator: OldDesignator=Led red1 NewDesignator=LED RED
+Change Net Name : Old Net Name=NetLed green1_2 New Net Name=NetLED GREEN_2
+Change Net Name : Old Net Name=NetLed red1_2 New Net Name=NetLED RED_2
+Added Room: Name=Sheet1

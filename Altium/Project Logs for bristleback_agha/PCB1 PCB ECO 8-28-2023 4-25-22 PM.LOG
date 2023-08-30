@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=POWER NewDesignator=H1
+Change Component Designator: OldDesignator=RS232_Out NewDesignator=H2
+Added Component: Designator=JP1(JP 1x8 DT)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "Jump Ðon Ð?c 2.54MM 1x40P Th?ng 11MM"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetArduino_MEGA1_61 Pin=Arduino_MEGA1-61
+Added Pin To Net: NetName=NetArduino_MEGA1_61 Pin=JP1-8
+Added Net: Name=NetArduino_MEGA1_61
+Added Pin To Net: NetName=NetArduino_MEGA1_62 Pin=Arduino_MEGA1-62
+Added Pin To Net: NetName=NetArduino_MEGA1_62 Pin=JP1-7
+Added Net: Name=NetArduino_MEGA1_62
+Added Pin To Net: NetName=NetArduino_MEGA1_63 Pin=Arduino_MEGA1-63
+Added Pin To Net: NetName=NetArduino_MEGA1_63 Pin=JP1-6
+Added Net: Name=NetArduino_MEGA1_63
+Added Pin To Net: NetName=NetArduino_MEGA1_64 Pin=Arduino_MEGA1-64
+Added Pin To Net: NetName=NetArduino_MEGA1_64 Pin=JP1-5
+Added Net: Name=NetArduino_MEGA1_64
+Added Pin To Net: NetName=NetArduino_MEGA1_65 Pin=Arduino_MEGA1-65
+Added Pin To Net: NetName=NetArduino_MEGA1_65 Pin=JP1-4
+Added Net: Name=NetArduino_MEGA1_65
+Added Pin To Net: NetName=NetArduino_MEGA1_66 Pin=Arduino_MEGA1-66
+Added Pin To Net: NetName=NetArduino_MEGA1_66 Pin=JP1-3
+Added Net: Name=NetArduino_MEGA1_66
+Added Pin To Net: NetName=NetArduino_MEGA1_67 Pin=Arduino_MEGA1-67
+Added Pin To Net: NetName=NetArduino_MEGA1_67 Pin=JP1-2
+Added Net: Name=NetArduino_MEGA1_67
+Added Pin To Net: NetName=NetArduino_MEGA1_68 Pin=Arduino_MEGA1-68
+Added Pin To Net: NetName=NetArduino_MEGA1_68 Pin=JP1-1
+Added Net: Name=NetArduino_MEGA1_68
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x8 2.54
+Added Room: Name=Sheet1

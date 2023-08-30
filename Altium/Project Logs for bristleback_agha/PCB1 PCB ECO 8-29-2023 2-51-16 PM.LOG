@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=control 5v or 12v Pin=Arduino_MEGA1-56
+Added Pin To Net: NetName=control 5v or 12v Pin=Arduino_MEGA1-28
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x8 2.54
+Added Room: Name=Sheet1

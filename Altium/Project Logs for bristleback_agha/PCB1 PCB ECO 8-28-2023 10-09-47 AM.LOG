@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=NetC10_1 Pin=Max1-1
+Removed Pin From Net: NetName=NetC9_1 Pin=Max1-2
+Removed Pin From Net: NetName=NetC10_2 Pin=Max1-3
+Removed Pin From Net: NetName=NetC11_1 Pin=Max1-4
+Removed Pin From Net: NetName=NetC11_2 Pin=Max1-5
+Removed Pin From Net: NetName=NetC9_2 Pin=Max1-6
+Removed Pin From Net: NetName=TX mcu Pin=Max1-11
+Removed Pin From Net: NetName=RX mcu Pin=Max1-12
+Removed Pin From Net: NetName=NetH2_2 Pin=Max1-13
+Removed Pin From Net: NetName=TX COM 2 Pin=Max1-14
+Removed Pin From Net: NetName=GND Pin=Max1-15
+Removed Pin From Net: NetName=5V MCU Pin=Max1-16
+Removed Member From Class: ClassName=Sheet1 Member=Max1
+Added Component: Designator=U(SOIC127P1032X265-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX232CWE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16 Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX232CWE/Maxim%20Integrated/view-part/977003/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC10_1 Pin=U-1
+Added Pin To Net: NetName=NetC9_1 Pin=U-2
+Added Pin To Net: NetName=NetC10_2 Pin=U-3
+Added Pin To Net: NetName=NetC11_1 Pin=U-4
+Added Pin To Net: NetName=NetC11_2 Pin=U-5
+Added Pin To Net: NetName=NetC9_2 Pin=U-6
+Added Pin To Net: NetName=TX mcu Pin=U-11
+Added Pin To Net: NetName=RX mcu Pin=U-12
+Added Pin To Net: NetName=NetH2_2 Pin=U-13
+Added Pin To Net: NetName=TX COM 2 Pin=U-14
+Added Pin To Net: NetName=GND Pin=U-15
+Added Pin To Net: NetName=5V MCU Pin=U-16
+Added Member To Class: ClassName=Sheet1 Member=Component U MAX232CWE-TG002

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=5V MCU Pin=R8-2
+Change Component Designator: OldDesignator=POWER NewDesignator=H1
+Change Component Designator: OldDesignator=Temp NewDesignator=Temperature Header1
+Added Pin To Net: NetName=+5 Pin=R8-2
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x8 2.54
+Added Room: Name=Sheet1

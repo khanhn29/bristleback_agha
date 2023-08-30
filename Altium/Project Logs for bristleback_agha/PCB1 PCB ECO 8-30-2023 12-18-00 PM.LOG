@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Vin Pin=LED GREEN-1
+Removed Pin From Net: NetName=Vin Pin=LED RED-1
+Added Pin To Net: NetName=NetLED GREEN_1 Pin=LED GREEN-1
+Added Pin To Net: NetName=NetLED GREEN_1 Pin=LED RED-1
+Added Net: Name=NetLED GREEN_1
+Added Member To Class: ClassName=Sheet1 Member=Component JP1 JP 1x8 2.54
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 2N2222A
+Added Room: Name=Sheet1
