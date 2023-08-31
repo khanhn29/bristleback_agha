@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: E:\1. WORK\Thiet bi\Verotec\PCB design\Verotec_PCB\bristleback_agha\Altium\PCB1.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
