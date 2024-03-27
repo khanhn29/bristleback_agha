@@ -7,6 +7,8 @@ void setup() {
   pinMode(INLET, INPUT);
   pinMode(NOZZLE, INPUT);
 
+  analogReference(DEFAULT);  //5V for Vref-pin of ADC
+
   pinMode(CONTROL_5V_12V, OUTPUT);
   pinMode(QUAT, OUTPUT);
   pinMode(GAS_SEN_PW_PIN, OUTPUT);
@@ -37,7 +39,7 @@ void loop() {
   unsigned long currentMillis = millis();
   warning_mode_t led_mode = no_fault;
   static gas_alarm_mode_t alarm_mode = error_none;
-  static int temperature_threshold = 100;
+  static int temperature_threshold = 1000;
   static connect_mode_t connect_mode = OFF_MODE;
 
   if(currentMillis - previousMillis > interval || previousMillis > currentMillis)
@@ -79,7 +81,7 @@ void runConnectMode(connect_mode_t* cm)
       //Gui adc gas voi interval
       if(count % 7 == 0)
       {
-        analogRead(GAS_SEN_ADC_PIN);
+        gas_value = analogRead(GAS_SEN_ADC_PIN);
         to_send = prefix + gas_value +suffix;
         Serial.println(to_send);
       }
@@ -96,6 +98,7 @@ void runConnectMode(connect_mode_t* cm)
       break;
     default:
       //OFF MODE
+      count = 0;
       turn_off_device();
       ;
   }
@@ -163,7 +166,7 @@ void controlAlarm(gas_alarm_mode_t alarm_mode)
   {
     case error_orange:
     {
-      if(count % 5 == 0) // alarm interval 500ms
+      if(count % 10 == 0) // alarm interval 500ms
       {
         digitalWrite(ALARM, !digitalRead(ALARM));
       }
@@ -171,7 +174,7 @@ void controlAlarm(gas_alarm_mode_t alarm_mode)
     }
     case error_red:
     {
-      if(count % 2 == 0) // alarm interval 200ms
+      if(count % 5 == 0) // alarm interval 200ms
       {
         digitalWrite(ALARM, !digitalRead(ALARM));
       }
